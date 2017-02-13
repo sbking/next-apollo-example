@@ -32,6 +32,8 @@
     "graphql": "^0.8.2",
     "graphql-tag": "^1.2.1",
     "next": "^2.0.0-beta",
+    "next-apollo": "^0.0.13",
+    "react": "^15.4.2",
     "react-apollo": "^0.8.1",
     "react-redux": "^5.0.1",
     "redux": "^3.6.0",
